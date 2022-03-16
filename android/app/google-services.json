@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "180813573486",
+    "project_id": "psyfit-341806",
+    "storage_bucket": "psyfit-341806.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180813573486:android:7738d03fee9c518aaee57f",
+        "android_client_info": {
+          "package_name": "com.example.sampleproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180813573486-6akgdshbbe2ehnvd8q18kcnj632krj7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxT53r6c16ebYKreMLSCPDappObwfhOFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180813573486-6akgdshbbe2ehnvd8q18kcnj632krj7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
